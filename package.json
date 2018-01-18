@@ -1,0 +1,15 @@
+{
+  "name": "api_browser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "get_zoom_data.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bryan",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "jsonwebtoken": "^8.1.0"
+  }
+}
